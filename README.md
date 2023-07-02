@@ -10,8 +10,8 @@ SMA_100.csv - Файл по тикеру YNDX с рассчитанными ме
 Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn3N?usp=sharing
 
 DataLens:
-https://datalens.yandex/1svmr9b0cz4wq - Общий обзор
-\nhttps://datalens.yandex/e55khihfa94u3 - Персональный обзор на основе тикера YNDX
+Общий обзор: https://datalens.yandex/1svmr9b0cz4wq
+Персональный обзор на основе тикера YNDX: https://datalens.yandex/e55khihfa94u3
 
 
 
