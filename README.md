@@ -11,7 +11,7 @@ Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn
 
 DataLens:
 https://datalens.yandex/1svmr9b0cz4wq - Общий обзор
-https://datalens.yandex/e55khihfa94u3 - Персональный обзор на основе тикера YNDX
+\nhttps://datalens.yandex/e55khihfa94u3 - Персональный обзор на основе тикера YNDX
 
 
 
