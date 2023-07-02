@@ -30,7 +30,7 @@ Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn
 
 Произведена обработка данных:
 
-  Перевод даты и времени в единый формат DateTime;
+	Перевод даты и времени в единый формат DateTime;
   
   Объединение данных в одну сущность;
   
