@@ -1,6 +1,7 @@
 # DS_MISIS - TEAM 5
 Работа посвящена хакатону DS_MISIS
 
+=====Данные=====
 
 1-18.csv - Исходные данные
 
@@ -10,8 +11,9 @@ all.csv - Результат объединения данных в один ф�
 
 SMA_100.csv - Файл по тикеру YNDX с рассчитанными метриками, для составления dashboard'а в DataLens
 
+=====Collab=====
 
-Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn3N?usp=sharing
+https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn3N?usp=sharing
 
 
 =====DataLens=====
@@ -21,8 +23,7 @@ Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn
 Персональный обзор на основе тикера YNDX: https://datalens.yandex/e55khihfa94u3
 
 
-
-
+=====Обзор задач=====
 
 В ходе хакатона были выполнены следующие задачи:
 
@@ -38,7 +39,8 @@ Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn
 
 Произведена вёрстка графиков и dashboard'ов:
 
-_  DataLens;
+  DataLens;
   
   Collab;
-_
+  
+===================
