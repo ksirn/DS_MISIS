@@ -5,6 +5,8 @@
 
 all.csv - Результат объединения данных в один файл
 
+SMA_100.csv - Файл по тикеру YNDX с рассчитанными метриками, для составления dashboard'а в DataLens
+
 Collab - https://colab.research.google.com/drive/1ro-OTEpKfRy2Q_nmEOM0tAmCbBUBrn3N?usp=sharing
 
 DataLens - https://datalens.yandex/e55khihfa94u3
